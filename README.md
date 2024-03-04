@@ -53,6 +53,6 @@
 
 ###
 
-<img src="./snake.svg" alt="Snake animation" height ="auto" width=60% />
+<img src="./snake.svg" alt="Snake animation" height ="auto" width=100% />
 
 ###
