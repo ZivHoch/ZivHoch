@@ -53,6 +53,6 @@
 
 ###
 
-<img src="./snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZivHoch/ZivHoch/output/snake.svg" alt="Snake animation" />
 
 ###
