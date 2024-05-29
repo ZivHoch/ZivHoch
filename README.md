@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ziv Hochman and I'm , currently pursuing a Masters degree in Data Science and AI in Utrecht University, The Netherlands.<br>I have experience as a Full Stack developer with proficiency in Python and Java, as well as ReactJS, TypeScript, NodeJs and AWS. I am a highly motivated individual who works well in teams as well as independently.</h2>
+<h2 align="left">Hi 👋! My name is Ziv Hochman and I'm currently pursuing a Masters degree in Data Science and AI in Utrecht University, The Netherlands.<br>I have experience as a Full Stack developer with proficiency in Python and Java, as well as ReactJS, TypeScript, NodeJs and AWS. I am a highly motivated individual who works well in teams as well as independently.</h2>
 
 ###
 <div align="center">
